@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedanti00/Leetcode_Hustle/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vedanti00/Leetcode_Hustle/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vedanti00/Leetcode_Hustle/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
